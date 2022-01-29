@@ -1,0 +1,7 @@
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\bin\Debug\GoodBank.exe.config
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\bin\Debug\GoodBank.exe
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\bin\Debug\GoodBank.pdb
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\obj\Debug\GoodBank.csproj.AssemblyReference.cache
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\obj\Debug\GoodBank.csproj.CoreCompileInputs.cache
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\obj\Debug\GoodBank.exe
+D:\Desafios\C#\ProjetosPessoais\01- GoodBank\GoodBank\GoodBank\obj\Debug\GoodBank.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodBank", "GoodBank\GoodBank.csproj", "{ED421285-059E-45AA-9BA1-4252ACD0F455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED421285-059E-45AA-9BA1-4252ACD0F455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED421285-059E-45AA-9BA1-4252ACD0F455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED421285-059E-45AA-9BA1-4252ACD0F455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED421285-059E-45AA-9BA1-4252ACD0F455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC990866-1215-472F-AA82-6CB04F3CE083}
+	EndGlobalSection
+EndGlobal
